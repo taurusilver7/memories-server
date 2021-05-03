@@ -6,3 +6,5 @@
 - The index.js acts as server to the application.
 - The MVC architecture employed in the build creates model for the data-model using mongoose, controller for route handle functions & views for the templates.
 - The client-side is structured using react-js. No template-literals are needed at the server-side
+
+[https status codes](https://restapitutorial.com/httpstatuscodes.html)
